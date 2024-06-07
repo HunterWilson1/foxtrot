@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foxtrot/static/css/main.678c4599.css",
+    "main.js": "/foxtrot/static/js/main.64bd8b50.js",
+    "index.html": "/foxtrot/index.html",
+    "main.678c4599.css.map": "/foxtrot/static/css/main.678c4599.css.map",
+    "main.64bd8b50.js.map": "/foxtrot/static/js/main.64bd8b50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.678c4599.css",
+    "static/js/main.64bd8b50.js"
+  ]
+}
